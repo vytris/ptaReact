@@ -1,1 +1,1 @@
-# ptaReact
+# pta-react
